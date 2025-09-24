@@ -1,0 +1,8 @@
+.card {
+      width: 250px;
+      margin: 40px auto;                 /* separates from page edges */
+      padding: 20px;                     /* spacing inside */
+      border: 3px solid purple;            /* outline */
+      background-color: aqua;
+      text-align: center;
+    }
